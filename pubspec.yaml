@@ -1,6 +1,6 @@
 name: aki_datetime_picker
 description: A simple DateTime Picker made by AKI  
-version: 0.0.2
+version: 1.0.0
 homepage: https://github.com/AKI-YU/aki_datetime_picker
 
 environment:
@@ -19,3 +19,7 @@ dev_dependencies:
 
 flutter:
 
+topics:
+  - datepicker
+  - timepicker
+  - datetimepicker
