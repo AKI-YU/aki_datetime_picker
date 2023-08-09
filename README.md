@@ -1,8 +1,7 @@
 # AKI DateTime Picker
 
 A lightweight and cupertino date time picker.
-
-![Screen Shot](https://raw.githubusercontent.com/AKI-YU/file/main/screenshots/device-2023-08-09-154508.gif){ height: 200px; }
+<img src="https://raw.githubusercontent.com/AKI-YU/file/main/screenshots/device-2023-08-09-154508.gif" alt="screenshot" width="200"/>
 
 
 ## Intro
