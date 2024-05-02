@@ -1,6 +1,6 @@
 name: aki_datetime_picker
-description: aki datetime picker is a versatile and user-friendly date and time picker component for web applications, designed to simplify date and time selection. With its intuitive interface and customizable options, it empowers developers to create seamless user experiences. Users can effortlessly pick dates, times, or both, while developers enjoy the flexibility to tailor its appearance and behavior to suit their specific needs. Whether for scheduling appointments, setting reminders, or managing events, this component streamlines the process, enhancing the overall functionality and aesthetic appeal of web applications.
-version: 1.0.0
+description: aki datetime picker is a versatile and user-friendly date and time picker component for web applications, designed to simplify date and time selection. With its intuitive interface and customizable options, it empowers developers to create seamless user experiences. Users can effortlessly pick dates, times, or both, while developers enjoy the flexibility to tailor its appearance and behavior to suit their specific needs.
+version: 1.0.3
 homepage: https://github.com/AKI-YU/aki_datetime_picker
 
 environment:
@@ -10,12 +10,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  intl: ^0.18.1
+  intl: ^0.19.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.2
 
 platforms:
   android:

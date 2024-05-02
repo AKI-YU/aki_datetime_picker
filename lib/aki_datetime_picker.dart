@@ -72,7 +72,7 @@ class _AKIDateTimePickerState extends State<AKIDateTimePicker> {
       selectedHour = int.parse(nowStr.split(" ")[1].split(":")[0]);
       selectedMin = int.parse(nowStr.split(" ")[1].split(":")[1]);
     }
-
+    daysinMonth = getMonthDays(selectedYear, selectedMonth);
     dayScroll = FixedExtentScrollController(
       initialItem: selectedDay - 1,
     );
