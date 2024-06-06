@@ -20,7 +20,7 @@ Add the following line to `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  aki_datetime_picker: ^1.0.0
+  aki_datetime_picker: ^1.0.4
 ```
 
 
